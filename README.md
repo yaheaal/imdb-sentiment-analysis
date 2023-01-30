@@ -11,8 +11,6 @@ Sentiment analysis is the 💻 process of determining the sentiment of a piece o
 **Python 3.9.6**  
 I used **Mac m1**. You can use any PC with any operating system, but of course, you must make some changes to the packages 💻  
 
-<br>
-
 **Install packages**  
 `pip install -r requirements.txt`
 
@@ -21,7 +19,6 @@ I used **Mac m1**. You can use any PC with any operating system, but of course, 
 ## 📂 Project Structure
 A clear and concise description of the project structure, including the 4 folders and main eda.ipynb file 💾.
 
-<br>
 
 ### src Folder
 * `constants.py`: Contains all the constants used in the project 🔖
@@ -30,18 +27,15 @@ A clear and concise description of the project structure, including the 4 folder
 * `text_preprocessing.py`: Processes the data for analysis 🧼
 * `textual_information.py`: Extracts information from the text 🔍
 
-<br>
 
 ### data Folder
 Contains all the data for analysis 💾
 
-<br>
 
 ### plot Folder
 * `plot_text.py`: Plots text plots 📊
 * `word_cloud.py`: Makes wordcloud plots 🌪️
 
-<br>
 
 ### test Folder
 * `input_testing.py`: Tests inputs before passing them to a function 🔍
