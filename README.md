@@ -40,6 +40,10 @@ Contains all the data for analysis 💾
 ### test Folder
 * `input_testing.py`: Tests inputs before passing them to a function 🔍
 
+
+### plotly
+Contains all the plots made by plotly
+
 <br>
 
 ## 🚀 Usage
