@@ -5,6 +5,8 @@ This README and all the docstring in the code was written by **ChatGPT**
 ## 📜 Introduction
 Sentiment analysis is the 💻 process of determining the sentiment of a piece of text, whether it is positive, negative, or neutral 🤔. In this project, we aim to perform sentiment analysis on a dataset of text data 💬. The problem we are trying to solve is to accurately classify the sentiment of the text and gain insights into the underlying data 💡. To achieve this, we propose a solution that involves preprocessing and cleaning the text data 🧼, followed by exploratory data analysis 🔍 to gain insights. The cleaned and preprocessed data will then be used as input to a sentiment analysis model 🧠, which will classify the sentiment of the text. This project will demonstrate the importance of thorough preprocessing and EDA in the overall process of sentiment analysis 🤓.
 
+At the end we will use tfidf and Logistic regression 👨‍💻 to train a classification sentiment analysis model 🦾.
+
 <br>
 
 ## 💻 Requirements
@@ -41,7 +43,7 @@ Contains all the data for analysis 💾
 * `input_testing.py`: Tests inputs before passing them to a function 🔍
 
 
-### plotly
+### plotly Folder
 Contains all the plots made by plotly
 
 <br>
