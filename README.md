@@ -30,8 +30,8 @@ A clear and concise description of the project structure, including the 4 folder
 * `textual_information.py`: Extracts information from the text 🔍
 
 
-### data Folder
-Contains all the data for analysis 💾
+### data Link
+You can find the data [here](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) 💾
 
 
 ### plot Folder
